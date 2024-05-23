@@ -1,5 +1,8 @@
 # VARIABLES IN PYTHON
 
+print("Rules should follow for variables")
+print("1. variables shouldn't start with NUMBERS or Symbols or Operators \n2. variables shouldn't contain any WHITESPACES \n3. variables shouldn't KEY WORDS")
+
 # The data types are mainly three types 1.integer 2.float 3.string
 
 # Variables : variables are used to store the data 
