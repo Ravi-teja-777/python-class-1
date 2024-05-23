@@ -1,0 +1,42 @@
+# VARIABLES IN PYTHON
+
+# The data types are mainly three types 1.integer 2.float 3.string
+
+# Variables : variables are used to store the data 
+print("1.int type")
+a = 10  #int
+b = 15  #int
+x = a+b #int
+v = a-b #int
+print("a =",a)
+print("b =",b)
+print("a + b =",x)
+print("a - b =",v)
+
+
+print("\n2.float type ")
+c = 1.5 #float
+d = 3.5 #float
+y = c+d #float
+n = c*d #float
+print("c =",c)
+print("d =",d)
+print("c + d =",y)
+print("c * d =",n)
+
+print("\nint and float addition")
+# adding int and float then the result is FLOAT
+e = 5   #int
+f = 6.5 #float 
+h = e+f #float
+print("e =",e)
+print("f =",f)
+print("e+f =",h)
+
+print("\nfloat ")
+q = 88
+w = 17
+l = q/w  #float
+m = q//w #int
+print(l)
+print(m)
